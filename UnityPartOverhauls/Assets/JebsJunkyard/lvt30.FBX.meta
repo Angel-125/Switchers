@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 469da90aa2bbaf949a7b2933140842f5
+timeCreated: 1516747281
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BellCollider
+    100002: BoatTailCollider
+    100004: BoatTailEngineMesh
+    100006: BoatTailFrame
+    100008: CompactCollider
+    100010: CompactFrame
+    100012: CompactFrameMesh
+    100014: //RootNode
+    100016: StandardCollider
+    100018: StandardEngineMesh
+    100020: StandardFrame
+    400000: BellCollider
+    400002: BoatTailCollider
+    400004: BoatTailEngineMesh
+    400006: BoatTailFrame
+    400008: CompactCollider
+    400010: CompactFrame
+    400012: CompactFrameMesh
+    400014: //RootNode
+    400016: StandardCollider
+    400018: StandardEngineMesh
+    400020: StandardFrame
+    2300000: BellCollider
+    2300002: BoatTailCollider
+    2300004: BoatTailEngineMesh
+    2300006: CompactCollider
+    2300008: CompactFrameMesh
+    2300010: StandardCollider
+    2300012: StandardEngineMesh
+    3300000: BellCollider
+    3300002: BoatTailCollider
+    3300004: BoatTailEngineMesh
+    3300006: CompactCollider
+    3300008: CompactFrameMesh
+    3300010: StandardCollider
+    3300012: StandardEngineMesh
+    4300000: BellCollider
+    4300002: CompactCollider
+    4300004: CompactFrameMesh
+    4300006: StandardCollider
+    4300008: StandardEngineMesh
+    4300010: BoatTailCollider
+    4300012: BoatTailEngineMesh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
